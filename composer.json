@@ -1,5 +1,5 @@
 {
-    "name": "AtServer/YafPlugins",
+    "name": "at_server/yafplugins",
     "description": "YafPlugins",
     "license": "MIT",
     "type": "library",
